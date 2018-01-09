@@ -27,7 +27,7 @@ Link to blog post:
 
 ## Danny Trujillo
 
-Link to blog post:
+Link to blog post: https://gist.github.com/vaidashi/82c32f6714885145c2920392edb9ef77
 
 
 ## Eddie Rose
