@@ -47,7 +47,7 @@ Link to blog post:
 
 ## Michael Heft
 
-Link to blog post:
+Link to blog post: [Open Source Blog Post](https://gist.github.com/mikeyduece/f2bfaff567abe9a7e92ebf74b682ec2b)
 
 
 ## Mimi Le
