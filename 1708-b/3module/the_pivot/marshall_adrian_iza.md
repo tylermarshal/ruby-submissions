@@ -48,7 +48,7 @@ Client Evaluation
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -60,7 +60,7 @@ User Experience
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -72,7 +72,7 @@ Organization
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -86,7 +86,7 @@ Technical Evaluation
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -100,7 +100,7 @@ Test Quality
 
 3: As expected
 
-2: Below expectations
+**2: Below expectations**3
 
 1: Well below expectations
 
@@ -110,7 +110,7 @@ Code Quality
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -121,6 +121,6 @@ Bonus
 We want to recognize and reward risk taking and exploring. Sometimes other areas might suffer if the risk doesn’t pan out. Earn a bonus point to offset a score above.
 
 **Did the team push themselves by taking risks?**
-1: Yes
+**1: Yes**
 
 0: No
