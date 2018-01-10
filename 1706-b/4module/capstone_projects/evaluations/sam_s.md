@@ -59,58 +59,52 @@ Developer implements code to increase accessibility.
 
 ---------------
 
-
 Instructor Assessment Rubric
 ------------
 
-### Evaluated By:
+### Evaluated By: Katelyn
 
 ### Notes:
+
+- Not deployed only working locally
+- Started with waffle but fell off a bit on keeping up with it
+- Detailed iteration map but would have loved to see the iteration broken up into pieces on a pm tool
+- Lack of PRs and branches
+- `CreateBar.js` long and a lot going on. Would help to break up that functionality a bit
+- Lack of documentation on the FE & BE
 
 ### 1. Project Planning & Management
 
 Developer uses an iteration map to plan project scope, breaks down broad features into granular tasks, and exercises good Git workflow (e.g., feature branches, descriptive commits, incremental PRs)
 
-- Above Expectations
-- Meets Expectations
 - Below Expectations
 
 ### 2. Completion & Pace
 
 Developer plans stories ahead of sprint and makes some scope adjustments along the way. Developer communicates adjustments to Technical Lead as soon as possible (if necessary).
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
 
 ### 3. Implementation Quality
 
 Project exhibits tested (where applicable), maintainable, and well-organized code. Developer can speak to architecture and implementation decisions and best practices.
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
 
 ### 4. Application of Techniques
 
 Developer implements four new techniques or patterns.
 
 - Above Expectations
-- Meets Expectations
-- Below Expectations
 
 ### 5. Documentation
 
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
-- Above Expectations
-- Meets Expectations
 - Below Expectations
 
 ### 6. Accessibility
 
 Developer implements code to increase accessibility.
 
-- Above Expectations
 - Meets Expectations
-- Below Expectations
