@@ -57,7 +57,7 @@ Link to blog post:
 
 ## Ricky Amparo
 
-Link to blog post:
+Link to blog post: https://medium.com/@rickyamparo/open-source-for-pokemon-showdown-51fa82a26865
 
 
 ## Sam Nayrouz
