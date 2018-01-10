@@ -2,7 +2,7 @@
 
 ## Aaron Hursh
 
-Link to blog post:
+Link to blog post: https://gist.github.com/amhursh/620909dd90fc855ebd47ce04a7e98bc9
 
 
 ## Ashish Vaid
