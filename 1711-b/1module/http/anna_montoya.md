@@ -1,6 +1,6 @@
-Assessor:
+Assessor: Sal
 
-Repo:
+Repo: https://github.com/AnnaMontoya/http_yeah_you_know_me
 
 Notes:
 
@@ -47,11 +47,15 @@ Expectations:
 - [ ] Test Coverage metrics are present (SimpleCov)
 - [ ] A test RakeTask is implemented
 
+* 1: Well-below expectations
+
 ### 4. Functionality
 
 Expectations:
 
 - [ ] Application meets all requirements (extension not req'd)
+
+* 2: Below expectations
 
 ### 5. Version Control
 
@@ -59,3 +63,4 @@ Expectations:
 - [ ] Developer implements branching and PRs
 - [ ] The final submitted version is merged into master
 
+* 1: Well-below expectations
