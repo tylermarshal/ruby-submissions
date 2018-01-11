@@ -1,6 +1,6 @@
-Assessor:
+Assessor: Sal
 
-Repo:
+Repo: https://github.com/andymond/http_yeah_you_know_me
 
 Notes:
 
@@ -17,45 +17,53 @@ The project will be assessed with the following guidelines:
 
 Expectations:
 
-- [ ] Applies appropriate attribute encapsulation
-- [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable
-- [ ] Developer implements best-choice enumerable methods
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line
-- [ ] A directory/file structure provides basic organization via lib/ and/or /test
+- [X] Applies appropriate attribute encapsulation
+- [X] Developer creates instance and local variables appropriately
+- [X] Naming follows convention (is idiomatic)
+- [X] Ruby methods used are logical and readable
+- [X] Developer implements best-choice enumerable methods
+- [X] Code is indented properly
+- [X] Code does not exceed 80 characters per line
+- [X] A directory/file structure provides basic organization via lib/ and/or /test
 
+* 3: Meets expectations
 
 ### 2. Breaking Logic into Components
 
 Expectations:
 
 - [ ] Code is effectively broken into methods & classes
-- [ ] Developer writes methods less than 7 lines
-- [ ] No more than 3 methods break the principle of SRP
+- [X] Developer writes methods less than 7 lines
+- [X] No more than 3 methods break the principle of SRP
+
+* 3: Meets expectations
 
 ### 3. Test-Driven Development
 
 Expectations:
 
-- [ ] Each method is tested
-- [ ] Functionality is accurately covered
-- [ ] Tests implement Ruby syntax & style
-- [ ] Balances unit and integration tests
-- [ ] Evidence of edge cases testing
-- [ ] Test Coverage metrics are present (SimpleCov)
-- [ ] A test RakeTask is implemented
+- [X] Each method is tested
+- [X] Functionality is accurately covered
+- [X] Tests implement Ruby syntax & style
+- [X] Balances unit and integration tests
+- [X] Evidence of edge cases testing
+- [X] Test Coverage metrics are present (SimpleCov)
+- [X] A test RakeTask is implemented
+
+* 3: Meets expectations
 
 ### 4. Functionality
 
 Expectations:
 
-- [ ] Application meets all requirements (extension not req'd)
+- [X] Application meets all requirements (extension not req'd)
+
+* 3: Meets expectations
 
 ### 5. Version Control
 
 - [ ] Developer commits at a pace of at least 1 commit per hour
 - [ ] Developer implements branching and PRs
-- [ ] The final submitted version is merged into master
+- [X] The final submitted version is merged into master
 
+* 2: Below expectations
