@@ -8,83 +8,65 @@ The project will be assessed with the following guidelines:
 
 ### 1. Ruby Syntax & Style
 
-Expectations: 
+Expectations:
 
-- [ ] Applies appropriate attribute encapsulation  
-- [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable  
-- [ ] Developer implements best-choice enumerable methods
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line
-- [ ] Each class has correctly-named files and corresponding test files in the proper directories
+- [X] Applies appropriate attribute encapsulation
+- [X] Developer creates instance and local variables appropriately
+- [X] Naming follows convention (is idiomatic)
+- [X] Ruby methods used are logical and readable
+- [X] Developer implements best-choice enumerable methods
+- [X] Code is indented properly
+- [X] Code does not exceed 80 characters per line
+- [X] Each class has correctly-named files and corresponding test files in the proper directories
 
 * 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations 
 
 ### 2. Breaking Logic into Components
 
-Expectations: 
+Expectations:
 
-- [ ] Code is effectively broken into methods & classes 
-- [ ] Developer writes methods less than 6 lines 
-- [ ] No more than 3 methods break the principle of SRP 
+- [X] Code is effectively broken into methods & classes
+- [X] Developer writes methods less than 6 lines
+- [X] No more than 3 methods break the principle of SRP
 
 * 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 3. Test-Driven Development
 
-Expectations: 
+Expectations:
 
-- [ ] Each method is tested  
-- [ ] Functionality is accurately covered
-- [ ] Tests implement Ruby syntax & style   
-- [ ] Balances unit and integration tests 
-- [ ] Evidence of edge cases testing 
-- [ ] Test Coverage metrics are present (SimpleCov)
-- [ ] A test RakeTask is implemented
+- [X] Each method is tested
+- [X] Functionality is accurately covered
+- [X] Tests implement Ruby syntax & style
+- [X] Balances unit and integration tests
+- [X] Evidence of edge cases testing
+- [X] Test Coverage metrics are present (SimpleCov)
+- [X] A test RakeTask is implemented
 
 * 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 4. Functionality
 
-Expectations: 
+Expectations:
 
-- [ ] Application meets all requirements (all relevant tests pass the spec harness)
+- [X] Application meets all requirements (all relevant tests pass the spec harness)
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 5. Version Control
 
-Expectations: 
+Expectations:
 
-- [ ] Developer commits at a pace of at least 1 commit per hour
-- [ ] Developer implements branching and PRs
-- [ ] The final submitted version is merged into master
+- [X] Developer commits at a pace of at least 1 commit per hour
+- [X] Developer implements branching and PRs
+- [X] The final submitted version is merged into master
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 6. Code Sanitation
 
-Expectations: 
+Expectations:
 
-- [ ] The output from `rake sanitation:all` shows five or fewer complaints
+- [X] The output from `rake sanitation:all` shows five or fewer complaints
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
