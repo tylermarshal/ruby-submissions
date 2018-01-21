@@ -52,8 +52,9 @@
 
 ## Miguel Silva
 
-* Reflection Gist:
+* Reflection Gist: https://gist.github.com/MiguelSilva1997/f92ceae1ae296946fe5343774fb7ade0
 * Sorting Suite Repo:
+https://github.com/MiguelSilva1997/sorting-suite
 
 ## Randy Springer
 
