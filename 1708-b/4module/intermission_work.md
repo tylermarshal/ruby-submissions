@@ -12,8 +12,8 @@
 
 ## Aurora Ziobrowski
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/aziobrow/cf1dc9bb6a186a6cb6046988ad45f6f2
+* Sorting Suite Repo: https://github.com/aziobrow/tdd
 
 ## Dione Wilson
 
