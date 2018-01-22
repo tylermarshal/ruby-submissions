@@ -47,7 +47,7 @@ Link to blog post: https://gist.github.com/ButeraMV/a103046dd189c5e0d181d78b0a3c
 
 ## Michael Heft
 
-Link to blog post:
+Link to blog post: [Open Source Blog Post](https://gist.github.com/mikeyduece/f2bfaff567abe9a7e92ebf74b682ec2b)
 
 
 ## Mimi Le
