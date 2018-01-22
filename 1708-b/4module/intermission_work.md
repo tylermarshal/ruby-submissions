@@ -7,8 +7,8 @@
 
 ## Adrian Lara
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/adrian-lara/bd9963fe4d49c9130fed20a148683caa
+* Sorting Suite Repo: https://github.com/adrian-lara/tdd
 
 ## Aurora Ziobrowski
 
