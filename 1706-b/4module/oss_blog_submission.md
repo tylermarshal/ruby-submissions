@@ -62,7 +62,7 @@ Link to blog post: https://medium.com/@rickyamparo/open-source-for-pokemon-showd
 
 ## Sam Nayrouz
 
-Link to blog post:
+[Link to blog post](https://naydaysite.wordpress.com/2018/01/10/my-first-open-source-contribution-pokemon-showdown/)
 
 
 ## Samuel Snider
