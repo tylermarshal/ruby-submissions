@@ -7,7 +7,7 @@ Link to blog post: https://gist.github.com/amhursh/620909dd90fc855ebd47ce04a7e98
 
 ## Ashish Vaid
 
-Link to blog post:
+Link to blog post: https://gist.github.com/vaidashi/82c32f6714885145c2920392edb9ef77
 
 
 ## Becki Srofe
