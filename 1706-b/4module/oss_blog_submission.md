@@ -68,3 +68,7 @@ Link to blog post:
 ## Samuel Snider
 
 Link to blog post:
+
+## Aram Anderson
+
+Link to blog post: https://github.com/turingschool/ruby-submissions/blob/master/1706-b/4module/oss_blog_submission.md
