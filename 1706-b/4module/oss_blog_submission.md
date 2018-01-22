@@ -17,7 +17,7 @@ Link to blog post:
 
 ## Brandon Stewart
 
-Link to blog post:
+Link to blog post: http://www.brandonsstewart.com/open-source.html
 
 
 ## Daniel Phillips
