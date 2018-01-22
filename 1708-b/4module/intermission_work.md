@@ -22,8 +22,8 @@
 
 ## Iza Jimenez
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/izaxveta/41ec0697987aba1a3b8ae4bb57986f53
+* Sorting Suite Repo: https://github.com/izaxveta/sorting-suite
 
 ## Emily Wise
 
