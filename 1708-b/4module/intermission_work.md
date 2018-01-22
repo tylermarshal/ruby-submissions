@@ -32,8 +32,8 @@
 
 ## Erika Smith
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/erikaannesmith/d7d5f1d160309e62d0503cc38c0d55be
+* Sorting Suite Repo: https://github.com/erikaannesmith/js-sorting-suite
 
 ## Hugh Morrison
 
