@@ -57,5 +57,5 @@
 
 ## Randy Springer
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/randy-darsh/b3c35fa5b3b290326df53369a6e13d4b
+* Sorting Suite Repo: https://github.com/randy-darsh/tdd
