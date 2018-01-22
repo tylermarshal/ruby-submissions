@@ -42,7 +42,7 @@ Link to blog post:
 
 ## Michael Butera
 
-Link to blog post:
+Link to blog post: https://gist.github.com/ButeraMV/a103046dd189c5e0d181d78b0a3c8821
 
 
 ## Michael Heft
