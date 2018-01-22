@@ -22,7 +22,7 @@ Link to blog post:
 
 ## Daniel Phillips
 
-Link to blog post:
+Link to blog post: https://gist.github.com/dphilla/bb8a251041f4e16602591832fb0d9113
 
 
 ## Danny Trujillo
