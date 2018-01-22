@@ -18,7 +18,7 @@
 ## Dione Wilson
 
 * Reflection Gist: https://gist.github.com/dionew1/2036eab1f0ebec29223a5961294779e7
-* Sorting Suite Repo:
+* Sorting Suite Repo: https://github.com/dionew1/tdd
 
 ## Iza Jimenez
 
