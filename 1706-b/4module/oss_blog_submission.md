@@ -52,7 +52,7 @@ Link to blog post: [Open Source Blog Post](https://gist.github.com/mikeyduece/f2
 
 ## Mimi Le
 
-Link to blog post:
+Link to blog post: https://gist.github.com/mimilettd/31e0dceb8a7984918504c42ccb7c2bcb
 
 
 ## Ricky Amparo
