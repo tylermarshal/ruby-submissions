@@ -47,8 +47,8 @@
 
 ## Marshall Houston
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/marshallhouston/7fab05d3210f76dedea10ad92f37981e
+* Sorting Suite Repo: https://github.com/marshallhouston/sorting-suite
 
 ## Miguel Silva
 
