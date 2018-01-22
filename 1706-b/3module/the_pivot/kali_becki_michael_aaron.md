@@ -48,7 +48,7 @@ Client Evaluation
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -62,7 +62,7 @@ User Experience
 
 3: As expected
 
-2: Below expectations
+**2: Below expectations**
 
 1: Well below expectations
 
@@ -72,7 +72,7 @@ Organization
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -86,7 +86,7 @@ Technical Evaluation
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -96,7 +96,7 @@ Test Quality
 
 **Project is well tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?**
 
-4: Better than expected
+**4: Better than expected**
 
 3: As expected
 
@@ -110,7 +110,7 @@ Code Quality
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -123,4 +123,4 @@ We want to recognize and reward risk taking and exploring. Sometimes other areas
 **Did the team push themselves by taking risks?**
 1: Yes
 
-0: No
+**0: No**

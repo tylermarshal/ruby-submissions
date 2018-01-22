@@ -62,7 +62,7 @@ User Experience
 
 3: As expected
 
-2: Below expectations
+**2: Below expectations**
 
 1: Well below expectations
 
@@ -72,7 +72,7 @@ Organization
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -84,7 +84,7 @@ Technical Evaluation
 
 **Team always used pull requests and commented on pull requests prior to introducing code into the master branch.**
 
-4: Better than expected
+**4: Better than expected**
 
 3: As expected
 
@@ -98,7 +98,7 @@ Test Quality
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -110,7 +110,7 @@ Code Quality
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -123,4 +123,4 @@ We want to recognize and reward risk taking and exploring. Sometimes other areas
 **Did the team push themselves by taking risks?**
 1: Yes
 
-0: No
+**0: No**

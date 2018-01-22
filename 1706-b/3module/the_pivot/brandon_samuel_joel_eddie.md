@@ -48,7 +48,7 @@ Client Evaluation
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -62,7 +62,7 @@ User Experience
 
 3: As expected
 
-2: Below expectations
+**2: Below expectations**
 
 1: Well below expectations
 
@@ -72,7 +72,7 @@ Organization
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -84,7 +84,7 @@ Technical Evaluation
 
 **Team always used pull requests and commented on pull requests prior to introducing code into the master branch.**
 
-4: Better than expected
+**4: Better than expected**
 
 3: As expected
 
@@ -98,7 +98,7 @@ Test Quality
 
 4: Better than expected
 
-3: As expected
+**3: As expected**
 
 2: Below expectations
 
@@ -108,7 +108,7 @@ Code Quality
 
 **Project demonstrates well factored code and a solid grasp of MVC principles.**
 
-4: Better than expected
+**4: Better than expected**
 
 3: As expected
 
