@@ -2,8 +2,8 @@
 
 ## Aaron Schreck
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist:https://gist.github.com/aschreck/f634ff7ea610cc2eba2a8fb5782863c1
+* Sorting Suite Repo: https://github.com/aschreck/JS-sorting-algorithms
 
 ## Adrian Lara
 
