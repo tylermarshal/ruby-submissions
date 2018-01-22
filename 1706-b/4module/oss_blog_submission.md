@@ -12,7 +12,7 @@ Link to blog post:
 
 ## Becki Srofe
 
-Link to blog post:
+Link to blog post: https://medium.com/@beckisrofe/my-first-experience-contributing-to-open-source-9ff5ed134cde
 
 
 ## Brandon Stewart
