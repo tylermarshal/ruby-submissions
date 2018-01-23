@@ -42,8 +42,8 @@
 
 ## Liam Barstad
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://bitbucket.org/liambarstad/sorting_suite/raw/b6b790b1ed0d0101c0c9587b36a8d8c15461aba8/reflection.txt
+* Sorting Suite Repo: https://bitbucket.org/liambarstad/sorting_suite
 
 ## Marshall Houston
 
