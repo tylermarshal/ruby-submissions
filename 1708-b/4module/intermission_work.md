@@ -35,11 +35,6 @@
 * Reflection Gist: https://gist.github.com/erikaannesmith/d7d5f1d160309e62d0503cc38c0d55be
 * Sorting Suite Repo: https://github.com/erikaannesmith/js-sorting-suite
 
-## Hugh Morrison
-
-* Reflection Gist:
-* Sorting Suite Repo:
-
 ## Liam Barstad
 
 * Reflection Gist: https://bitbucket.org/liambarstad/sorting_suite/raw/b6b790b1ed0d0101c0c9587b36a8d8c15461aba8/reflection.txt
