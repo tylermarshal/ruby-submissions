@@ -27,8 +27,8 @@
 
 ## Emily Wise
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist:https://gist.github.com/wiseemily88/d346b931745ea455e9883a8e15b15fa3
+* Sorting Suite Repo: https://github.com/wiseemily88/bubblesort
 
 ## Erika Smith
 
