@@ -27,18 +27,13 @@
 
 ## Emily Wise
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist:https://gist.github.com/wiseemily88/d346b931745ea455e9883a8e15b15fa3
+* Sorting Suite Repo: https://github.com/wiseemily88/bubblesort
 
 ## Erika Smith
 
 * Reflection Gist: https://gist.github.com/erikaannesmith/d7d5f1d160309e62d0503cc38c0d55be
 * Sorting Suite Repo: https://github.com/erikaannesmith/js-sorting-suite
-
-## Hugh Morrison
-
-* Reflection Gist:
-* Sorting Suite Repo:
 
 ## Liam Barstad
 
