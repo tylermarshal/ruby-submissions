@@ -1,6 +1,15 @@
 Assessor:
-Repo:
+
+Repo: https://github.com/hmesander/flashcards/tree/master/flashcards
+
 Notes:
+* Copy/Pasted coded in Runner rather than a loop or enumerabl;e
+* Require paths not relative to root dir
+* Calling current card should not advance the round to the next card
+* Trying to assert two instances of Guess are the same fails the test suite
+* Github repo includes other project dirs
+* test file names transposed
+
 
 ## Evaluation Rubric
 
