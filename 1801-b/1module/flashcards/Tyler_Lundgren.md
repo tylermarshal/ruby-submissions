@@ -1,6 +1,12 @@
-Assessor:
-Repo:
+Assessor: Brian Zanti
+
+Repo: https://github.com/nergdnvlt/cards/tree/master/cards
+
 Notes:
+* Assertions not specific enough (too much instance_of)
+* No edge case testing
+* Tests need to be more focuses. Tests are testing multiple behaviors
+* Runner not built up
 
 ## Evaluation Rubric
 
