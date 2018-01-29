@@ -1,6 +1,13 @@
-Assessor:
-Repo:
+Assessor: Brian Zanti
+
+Repo: Repo not working
+
 Notes:
+* Issues Creating Repo
+* No Runner
+* Lack of edge case testing
+* Tests are not focused
+* Assertions not specific enough (using too much instance_of)
 
 ## Evaluation Rubric
 
