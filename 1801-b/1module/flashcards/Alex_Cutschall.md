@@ -1,6 +1,12 @@
-Assessor:
-Repo:
+Assessor: Brian Zanti
+
+Repo: https://github.com/alexcutschall/flash_cards
+
 Notes:
+* Assertions not specific (too much instance_of)
+* Tests should be more focuses. Some tests are testing for multiple behaviors
+* Runner not built
+
 
 ## Evaluation Rubric
 
