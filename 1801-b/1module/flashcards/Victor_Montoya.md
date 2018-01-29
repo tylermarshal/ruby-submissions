@@ -1,6 +1,8 @@
-Assessor:
-Repo:
+Assessor: Sal
+Repo: https://github.com/thatvictor7/flashcards_2
 Notes:
+
+* Eval not provided for 1-3 because not enough code present.
 
 ## Evaluation Rubric
 
@@ -35,5 +37,7 @@ The project will be assessed with the following guidelines:
 * Tests implement Ruby syntax & style   
 
 ### 4. Functionality
+
+* 2: Below expectations
 
 * Application meets all requirements (extension not req'd)
