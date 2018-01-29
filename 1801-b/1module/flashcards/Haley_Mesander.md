@@ -1,4 +1,4 @@
-Assessor:
+Assessor: Brian Zanti
 
 Repo: https://github.com/hmesander/flashcards/tree/master/flashcards
 
