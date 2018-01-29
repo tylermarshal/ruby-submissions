@@ -1,6 +1,10 @@
-Assessor:
-Repo:
+Assessor: Ian Douglas
+Repo: https://github.com/kolyaventuri/Flashcards
 Notes:
+- had a few tests that could have been cleaned up
+- had a few variables that weren't snake_case
+- went the extra mile and did some of the extra work
+
 
 ## Evaluation Rubric
 
@@ -23,17 +27,31 @@ The project will be assessed with the following guidelines:
 * Code does not exceed 80 characters per line
 * Each class has correctly-named files and corresponding test files in the proper directories 
 
+* 3: Meets expectations
+
+
+
 ### 2. Breaking Logic into Components
 
 * Code is effectively broken into methods & classes 
 * Developer writes methods less than 10 lines 
 * No more than 3 methods break the principle of SRP 
 
+* 3: Meets expectations
+
+
+
 ### 3. Test-Driven Development
 
 * Each method is tested  
 * Tests implement Ruby syntax & style   
 
+* 3: Meets expectations
+
+
+
 ### 4. Functionality
 
 * Application meets all requirements (extension not req'd)
+
+* 4: Above expectations
