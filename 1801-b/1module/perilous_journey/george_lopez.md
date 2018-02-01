@@ -1,6 +1,6 @@
-Assessor:
+Assessor: Sal
 
-Repo:
+Repo: https://github.com/gijolopez/morse_translator-1
 
 Notes:
 
@@ -37,5 +37,7 @@ The project will be assessed with the following guidelines:
 * Tests implement Ruby syntax & style   
 
 ### 4. Functionality
+
+* 1: Well-below expectations
 
 * Application meets all requirements (extension not req'd)
