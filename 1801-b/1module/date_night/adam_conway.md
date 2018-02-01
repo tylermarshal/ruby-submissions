@@ -1,6 +1,6 @@
 Assessor: Sal
 
-Repo: https://github.com/pollockcl/date_night.git
+Repo: https://github.com/adam-conway/binary_search_tree
 
 Notes:
 
@@ -44,6 +44,6 @@ The project will be assessed with the following guidelines:
 
 ### 4. Functionality
 
-[ ] Application meets all requirements (extension not req'd)
+[X] Application meets all requirements (extension not req'd)
 
-* 2: Below expectations
+* 3: Meets expectations
