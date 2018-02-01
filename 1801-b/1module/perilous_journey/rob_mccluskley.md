@@ -1,12 +1,8 @@
-Assessor: Ali  
-Repo:  https://github.com/lilwillifo/week1  
+Assessor:
 
-Notes:  
-2 3 4 10
-One line over 80
-Variables and method named nicely
-Appropriate use of variable types
-Used enumerables other than each
+Repo:
+
+Notes:
 
 ## Evaluation Rubric
 
@@ -26,10 +22,8 @@ The project will be assessed with the following guidelines:
 * Naming follows convention (is idiomatic)
 * Ruby methods used are logical and readable
 * Code is indented properly
-** Code does not exceed 80 characters per line **
+* Code does not exceed 80 characters per line
 * Each class has correctly-named files and corresponding test files in the proper directories
-
-* 3: Meets expectations
 
 ### 2. Breaking Logic into Components
 
@@ -37,17 +31,11 @@ The project will be assessed with the following guidelines:
 * Developer writes methods less than 10 lines
 * No more than 3 methods break the principle of SRP
 
-* 3: Meets expectations
-
 ### 3. Test-Driven Development
 
 * Each method is tested  
 * Tests implement Ruby syntax & style   
 
-* 3: Meets expectations
-
 ### 4. Functionality
 
 * Application meets all requirements (extension not req'd)
-
-* 3: Meets expectations

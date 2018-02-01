@@ -1,13 +1,8 @@
-Assessor: Brian Zanti
+Assessor:
 
-Repo: Repo not working
+Repo:
 
 Notes:
-* Issues Creating Repo
-* No Runner
-* Lack of edge case testing
-* Tests are not focused
-* Assertions not specific enough (using too much instance_of)
 
 ## Evaluation Rubric
 
@@ -20,7 +15,7 @@ The project will be assessed with the following guidelines:
 
 **Expectations:**
 
-### 1. Ruby Syntax & Style: 3
+### 1. Ruby Syntax & Style
 
 * Applies appropriate attribute encapsulation  
 * Developer creates instance and local variables appropriately
@@ -28,19 +23,19 @@ The project will be assessed with the following guidelines:
 * Ruby methods used are logical and readable
 * Code is indented properly
 * Code does not exceed 80 characters per line
-* Each class has correctly-named files and corresponding test files in the proper directories 
+* Each class has correctly-named files and corresponding test files in the proper directories
 
-### 2. Breaking Logic into Components: 3
+### 2. Breaking Logic into Components
 
-* Code is effectively broken into methods & classes 
-* Developer writes methods less than 10 lines 
-* No more than 3 methods break the principle of SRP 
+* Code is effectively broken into methods & classes
+* Developer writes methods less than 10 lines
+* No more than 3 methods break the principle of SRP
 
-### 3. Test-Driven Development: 2 
+### 3. Test-Driven Development
 
 * Each method is tested  
 * Tests implement Ruby syntax & style   
 
-### 4. Functionality: 2
+### 4. Functionality
 
 * Application meets all requirements (extension not req'd)

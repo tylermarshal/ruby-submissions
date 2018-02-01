@@ -1,10 +1,8 @@
-Assessor: Ian Douglas
-Repo: https://github.com/jrambold/flashcards
+Assessor:
+
+Repo:
+
 Notes:
-- code not separated in /lib/ and /test/ as we expect
-- code was not following Ruby conventions
-- missed several tests, plus tests didn't run from the 9am repo pull
-- did some of the extensions work
 
 ## Evaluation Rubric
 
@@ -25,30 +23,19 @@ The project will be assessed with the following guidelines:
 * Ruby methods used are logical and readable
 * Code is indented properly
 * Code does not exceed 80 characters per line
-* Each class has correctly-named files and corresponding test files in the proper directories 
-
-* 2: Below expectations
-
+* Each class has correctly-named files and corresponding test files in the proper directories
 
 ### 2. Breaking Logic into Components
 
-* Code is effectively broken into methods & classes 
-* Developer writes methods less than 10 lines 
-* No more than 3 methods break the principle of SRP 
-
-* 3: Meets expectations
-
+* Code is effectively broken into methods & classes
+* Developer writes methods less than 10 lines
+* No more than 3 methods break the principle of SRP
 
 ### 3. Test-Driven Development
 
 * Each method is tested  
 * Tests implement Ruby syntax & style   
 
-* 2: Below expectations
-
-
 ### 4. Functionality
 
 * Application meets all requirements (extension not req'd)
-
-* 4: Above expectations
