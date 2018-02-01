@@ -1,11 +1,11 @@
 Assessor: Ian Douglas
 
-Repo: https://github.com/alexcutschall/date_night
+Repo: https://github.com/Vadlusk/date_night
 
 Notes:
 
-- project partially incomplete (missing search/show)
-- not all code was tested
+- project mostly incomplete
+
 
 ## Evaluation Rubric
 
@@ -45,12 +45,12 @@ The project will be assessed with the following guidelines:
 * Each method is tested  
 * Tests implement Ruby syntax & style   
 
-* 2: Below expectations
+* 3: Meets expectations
 
 
 ### 4. Functionality
 
 * Application meets all requirements (extension not req'd)
 
-* 2: Below expectations
+* 1: Well-below expectations
 
