@@ -1,8 +1,12 @@
 Assessor:
 
-Repo:
+Repo: https://github.com/brickstar/perilous_journey
 
 Notes:
+* 15 tests total
+* Watch spacing and indentation
+* Generally real clean
+* Generally good testing, but make sure you are testing details such as sequence and ata
 
 ## Evaluation Rubric
 
@@ -21,9 +25,14 @@ The project will be assessed with the following guidelines:
 * Developer creates instance and local variables appropriately
 * Naming follows convention (is idiomatic)
 * Ruby methods used are logical and readable
-* Code is indented properly
+
+X Code is indented properly
+
 * Code does not exceed 80 characters per line
 * Each class has correctly-named files and corresponding test files in the proper directories
+
+
+* 3: Meets expectations
 
 ### 2. Breaking Logic into Components
 
@@ -31,11 +40,18 @@ The project will be assessed with the following guidelines:
 * Developer writes methods less than 10 lines
 * No more than 3 methods break the principle of SRP
 
+* 3: Meets expectations
+
 ### 3. Test-Driven Development
 
 * Each method is tested  
 * Tests implement Ruby syntax & style   
 
+
+* 3: Meets expectations
+
 ### 4. Functionality
 
 * Application meets all requirements (extension not req'd)
+
+* 1: Well-below expectations
