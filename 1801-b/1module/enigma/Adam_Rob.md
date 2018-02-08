@@ -47,8 +47,8 @@ The project will be assessed with the following guidelines:
 
 ### 3. Test-Driven Development: 2
 
-- [ ] Each method is tested  
-- [ ] Functionality is accurately covered
+- [x] Each method is tested  
+- [x] Functionality is accurately covered
 - [x] Tests implement Ruby syntax & style   
 - [ ] Balances unit and integration tests
 - [x] Evidence of edge cases testing
