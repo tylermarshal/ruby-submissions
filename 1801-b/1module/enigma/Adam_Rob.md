@@ -1,9 +1,16 @@
-* Assessor:
+* Assessor: Brian 
 
-* Repo:
+* Repo: https://github.com/Vadlusk/enigma/
 
 * Notes:
 
+* decrypt.rb file io not working
+* Enigma.encrypt not working in pry
+* ^working in tests
+* Only Enigma class
+* Tests error out in Rake
+* Tested different lengths of messages, nil, tested upper case
+* Lots of helper methods. Could have factored out into other classes
 
 ## Evaluation Rubric
 
@@ -16,7 +23,7 @@ The project will be assessed with the following guidelines:
 
 **Expectations:**
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style: 2
 
 * Applies appropriate attribute encapsulation  
 * Developer creates instance and local variables appropriately
@@ -33,7 +40,7 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 2. Breaking Logic into Components
+### 2. Breaking Logic into Components: 2
 
 * Code is effectively broken into methods & classes
 * Developer writes methods less than 8 lines
@@ -44,7 +51,7 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 3. Test-Driven Development
+### 3. Test-Driven Development: 2
 
 * Each method is tested  
 * Functionality is accurately covered
@@ -59,7 +66,7 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 4. Git Workflow
+### 4. Git Workflow: 3
 
 * Repository demonstrates that each member of team has contributed fairly equally.
 * Developers commit at a rate of approximately one commit every 30 minutes.
@@ -72,7 +79,7 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 5. Functionality
+### 5. Functionality: 2
 
 * Application meets all requirements (extensions not required for a 3)
 
