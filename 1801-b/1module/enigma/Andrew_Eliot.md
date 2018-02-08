@@ -1,9 +1,11 @@
-* Assessor:
+* Assessor: Mike
 
-* Repo:
+* Repo: https://github.com/agpiermarini/enigma
 
 * Notes:
-
+* Crack printed out array of all keys
+* 42 tests, all passing.
+* Some violations of DRY in the code, opportunites to refactor present
 
 ## Evaluation Rubric
 
@@ -26,23 +28,19 @@ The project will be assessed with the following guidelines:
 * Code is indented properly
 * Code does not exceed 80 characters per line
 * Each class has correctly-named files and corresponding test files in the proper directories
-* Code has been linted and corrected properly.
 
-* 4: Above expectations
+x Code has been linted and corrected properly.
+
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 2. Breaking Logic into Components
 
 * Code is effectively broken into methods & classes
 * Developer writes methods less than 8 lines
-* Methods do not break the principle of SRP
 
-* 4: Above expectations
+X Methods do not break the principle of SRP
+
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 3. Test-Driven Development
 
@@ -51,13 +49,12 @@ The project will be assessed with the following guidelines:
 * Tests implement Ruby syntax & style   
 * Balances unit and integration tests
 * Evidence of edge cases testing
-* Test Coverage metrics are present (SimpleCov)
+
+X Test Coverage metrics are present (SimpleCov)
+
 * Test Coverage metrics exceed 95%
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 4. Git Workflow
 
@@ -65,18 +62,13 @@ The project will be assessed with the following guidelines:
 * Developers commit at a rate of approximately one commit every 30 minutes.
 * Repository shows the use of branches.
 * Developers use a pull request workflow.
-* Developers resolve HoundCI complaints in their pull requests.
 
-* 4: Above expectations
+X Developers resolve HoundCI complaints in their pull requests.
+
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 5. Functionality
 
 * Application meets all requirements (extensions not required for a 3)
 
-* 4: Above expectations
 * 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
