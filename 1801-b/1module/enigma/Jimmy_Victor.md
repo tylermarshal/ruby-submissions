@@ -1,8 +1,22 @@
-* Assessor:
+* Assessor: Brian
 
-* Repo:
+* Repo: https://github.com/jamesrnelson/enigma
 
 * Notes:
+
+* No Cracking
+* Encrypt and Decrypt with files works well
+* If/Else Structure
+* ^Could have used math to avoid this
+* ^Causes lots of repeated code
+* Keygen
+* Encapsulation 
+* Variables with date type
+* Lots of helper methods
+* No Rakefile
+* Enigma does file io
+* Simple Cov Not Working
+* No test helper
 
 
 ## Evaluation Rubric
@@ -16,7 +30,7 @@ The project will be assessed with the following guidelines:
 
 **Expectations:**
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style: 2
 
 * Applies appropriate attribute encapsulation  
 * Developer creates instance and local variables appropriately
@@ -33,7 +47,7 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 2. Breaking Logic into Components
+### 2. Breaking Logic into Components: 2
 
 * Code is effectively broken into methods & classes
 * Developer writes methods less than 8 lines
@@ -44,7 +58,7 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 3. Test-Driven Development
+### 3. Test-Driven Development: 2
 
 * Each method is tested  
 * Functionality is accurately covered
@@ -59,7 +73,7 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 4. Git Workflow
+### 4. Git Workflow: 3
 
 * Repository demonstrates that each member of team has contributed fairly equally.
 * Developers commit at a rate of approximately one commit every 30 minutes.
@@ -72,7 +86,7 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 5. Functionality
+### 5. Functionality: 2
 
 * Application meets all requirements (extensions not required for a 3)
 
