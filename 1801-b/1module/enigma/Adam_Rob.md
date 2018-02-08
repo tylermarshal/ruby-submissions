@@ -25,7 +25,7 @@ The project will be assessed with the following guidelines:
 
 ### 1. Ruby Syntax & Style: 2
 
-* Applies appropriate attribute encapsulation  
+- [x] Applies appropriate attribute encapsulation  
 * Developer creates instance and local variables appropriately
 * Naming follows convention (is idiomatic)
 * Ruby methods used are logical and readable  
