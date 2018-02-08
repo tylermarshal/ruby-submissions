@@ -7,8 +7,8 @@
 * No Cracking
 * Encrypt and Decrypt with files works well
 * If/Else Structure
-** Could have used math to avoid this
-** Causes lots of repeated code
+ * Could have used math to avoid this
+ * Causes lots of repeated code
 * Keygen
 * Encapsulation 
 * Variables with date type
