@@ -1,27 +1,30 @@
 ### Project Template
 
-### [Project Title]
+### Vinery
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+* A wine tracker for those who enjoy wine and being able to keep notes, with the potential of keeping label pictures, and recommendations.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+* Several apps offer variations of getting recommendations or locating wines and price, or keeping notes.
+* I want to be able to combine these features into one place.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+* My application would bring together the information for users to find the above features in one place.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+* People who enjoy wines ad taste tasting new wines.
 
 ### New Techniques
 
 Which new techniques are you hoping to implement?
+* Program with a Node.js and Express.js backend and React frontend.
 
 ### Workflow
 
 What project management tool will you be using to manage your progress?
+* Waffle.io
