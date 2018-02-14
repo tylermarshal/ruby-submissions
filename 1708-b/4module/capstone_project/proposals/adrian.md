@@ -20,8 +20,10 @@ This is for all the travelers, itinerary-makers, and anyone else looking to ensu
 
 ### New Techniques
 
-I'd like to create a single page app using React on the frontend that consumes a backend in Rails.  For my own learning, I'd also like to implement either continuous integration tools or micro-services. Given the nature of the app, it seems that micro-services sounds the most applicable.
+I'll build this as a single page app using React on the frontend that consumes a backend in Rails.  I'll also incorporate Kubernetes to help automate deployment and/or scaling.
 
 ### Workflow
 
-Waffle
+2 separate Waffle boards
+https://waffle.io/adrian-lara/tripboard_be
+https://waffle.io/adrian-lara/tripboard_fe
