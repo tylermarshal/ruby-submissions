@@ -1,4 +1,5 @@
-Repo:
+Repo: https://github.com/tylermarshal/le_pivot
+Production: https://le-pivot-nouveau.herokuapp.com/
 
 Notes:
 
@@ -10,51 +11,33 @@ You’ll be graded on each of the criteria below with a score of (1) well below 
 
 **Team completed all the user stories and requirements set by the client.**
 
-4: Better than expected
-3: As expected
 2: Below expectations
-1: Well below expectations
 
 User Experience
 
 **Project exhibits a production-ready user experience.**
 
-4: Better than expected
 3: As expected
-2: Below expectations
-1: Well below expectations
 
 Organization
 
 **Team used a project management tool to keep their project organized.**
 
-4: Better than expected
 3: As expected
-2: Below expectations
-1: Well below expectations
 
 ### Technical Evaluation
 
 **Team always used pull requests and commented on pull requests prior to introducing code into the master branch.**
 
 4: Better than expected
-3: As expected
-2: Below expectations
-1: Well below expectations
 
 **Project is well tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?**
 
-4: Better than expected
-3: As expected
 2: Below expectations
-1: Well below expectations
 
 **Project demonstrates well factored code and a solid grasp of MVC principles.**
 
-4: Better than expected
 3: As expected
-2: Below expectations
-1: Well below expectations
 
 ### Bonus
 
