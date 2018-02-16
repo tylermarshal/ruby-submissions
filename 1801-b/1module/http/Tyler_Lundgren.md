@@ -4,8 +4,9 @@
 
 ### Notes:
 
-* Separation of classes is logical. Could have done Game in separate class
-* Different path classes is nice
+* Nice to see Response as Module. While it might not be the *best* case to use a module, it is good to see you thinking about how to use not only classes but Modules and/or superclasses to refactor code.
+* Great job separating out functionality into classes
+* Style looks good. It is clear that you are thinking about the best and/or most readable way to write code, not just code that works
 
 ## Evaluation Rubric
 
