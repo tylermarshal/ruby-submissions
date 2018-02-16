@@ -20,6 +20,7 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
+
 ### 1. Ruby Syntax & Style: 3
 
 - [x] Applies appropriate attribute encapsulation  
