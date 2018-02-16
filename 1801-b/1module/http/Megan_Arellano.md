@@ -4,6 +4,9 @@
 
 ### Notes:
 
+* Not testing full possibilities of game
+* Two classes: Server and Game
+* No Rakefile
 
 ## Evaluation Rubric
 
@@ -14,7 +17,7 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style: 
 
 Expectations:
 
@@ -32,12 +35,12 @@ Expectations:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 2. Breaking Logic into Components
+### 2. Breaking Logic into Components: 2
 
-Expectations:
+Expectations: 
 
 - [ ] Code is effectively broken into methods & classes
-- [ ] Developer writes methods less than 7 lines
+- [x] Developer writes methods less than 7 lines
 - [ ] No more than 3 methods break the principle of SRP
 
 * 4: Above expectations
@@ -45,7 +48,7 @@ Expectations:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 3. Test-Driven Development
+### 3. Test-Driven Development: 2
 
 Expectations:
 
@@ -62,11 +65,11 @@ Expectations:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 4. Functionality
+### 4. Functionality : 3
 
 Expectations:
 
-- [ ] Application meets all requirements (extension not req'd)
+- [x] Application meets all requirements (extension not req'd)
 
 * 4: Above expectations
 * 3: Meets expectations
