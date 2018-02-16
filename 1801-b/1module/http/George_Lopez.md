@@ -4,6 +4,15 @@
 
 ### Notes:
 
+* No Rakefile
+* 1 assertions for response
+* No Testing on Server
+* Some indentations issues
+* Saving a return value on one liner
+* Good use of string interpolation
+* Use of CODES constant
+* Only outputs diagnostics
+* Mixes local and instance variables
 
 ## Evaluation Rubric
 
@@ -14,25 +23,25 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style: 2
 
 Expectations:
 
 - [ ] Applies appropriate attribute encapsulation  
 - [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
+- [x] Naming follows convention (is idiomatic)
 - [ ] Ruby methods used are logical and readable  
-- [ ] Developer implements best-choice enumerable methods
+- [x] Developer implements best-choice enumerable methods
 - [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line
-- [ ] A directory/file structure provides basic organization via lib/ and/or /test
+- [x] Code does not exceed 80 characters per line
+- [x] A directory/file structure provides basic organization via lib/ and/or /test
 
 * 4: Above expectations
 * 3: Meets expectations
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 2. Breaking Logic into Components
+### 2. Breaking Logic into Components: 1
 
 Expectations:
 
@@ -45,16 +54,16 @@ Expectations:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 3. Test-Driven Development
+### 3. Test-Driven Development: 1
 
 Expectations:
 
 - [ ] Each method is tested  
 - [ ] Functionality is accurately covered
-- [ ] Tests implement Ruby syntax & style   
+- [x] Tests implement Ruby syntax & style   
 - [ ] Balances unit and integration tests
 - [ ] Evidence of edge cases testing
-- [ ] Test Coverage metrics are present (SimpleCov)
+- [x] Test Coverage metrics are present (SimpleCov)
 - [ ] A test RakeTask is implemented
 
 * 4: Above expectations
@@ -62,7 +71,7 @@ Expectations:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 4. Functionality
+### 4. Functionality: 1
 
 Expectations:
 
@@ -73,11 +82,11 @@ Expectations:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 5. Version Control
+### 5. Version Control: 3
 
 - [ ] Developer commits at a pace of at least 1 commit per hour
-- [ ] Developer implements branching and PRs
-- [ ] The final submitted version is merged into master
+- [x] Developer implements branching and PRs
+- [x] The final submitted version is merged into master
 
 * 4: Above expectations
 * 3: Meets expectations
