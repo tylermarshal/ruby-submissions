@@ -4,6 +4,8 @@
 
 ### Notes:
 
+* All Integration tests
+* 
 
 ## Evaluation Rubric
 
@@ -14,7 +16,7 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style: 3
 
 Expectations:
 
@@ -32,12 +34,12 @@ Expectations:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 2. Breaking Logic into Components
+### 2. Breaking Logic into Components: 2
 
-Expectations:
+Expectations: 2
 
-- [ ] Code is effectively broken into methods & classes
-- [ ] Developer writes methods less than 7 lines
+- [/] Code is effectively broken into methods & classes
+- [x] Developer writes methods less than 7 lines
 - [ ] No more than 3 methods break the principle of SRP
 
 * 4: Above expectations
@@ -45,7 +47,7 @@ Expectations:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 3. Test-Driven Development
+### 3. Test-Driven Development: 3
 
 Expectations:
 
@@ -62,7 +64,7 @@ Expectations:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 4. Functionality
+### 4. Functionality: 3
 
 Expectations:
 
@@ -73,7 +75,7 @@ Expectations:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 5. Version Control
+### 5. Version Control: 3
 
 - [ ] Developer commits at a pace of at least 1 commit per hour
 - [ ] Developer implements branching and PRs
