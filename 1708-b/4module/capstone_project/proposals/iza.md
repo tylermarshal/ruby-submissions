@@ -22,4 +22,4 @@ For new techniques I plan to improve the current user experience by using JavaSc
 
 ### Workflow
 
-I plan to use the MeisterTask, which is a task manager app that exists on my local machine. It works the same as Waffle but also has some features similar to Pivotal. If necessary I will use Pivotal if using MeisterTask is not an option.
+Waffle: https://waffle.io/izaxveta/jet-for-gilt
