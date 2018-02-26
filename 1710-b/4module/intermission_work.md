@@ -8,4 +8,4 @@
 - Sorting Suite Repo:
 - Editor Challenge Repo:
 - Add Comments Challenge Repo:
-- Wes Bos Video Code-ALong Gist:
+- Wes Bos Video Code-Along Gist:
