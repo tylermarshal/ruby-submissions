@@ -48,11 +48,11 @@ The project will be assessed with the following guidelines:
 
 - [x] Application meets all requirements (all relevant tests pass the spec harness)
 
-### 5. Version Control
+### 5. Version Control: 3
 
-- [ ] Developer commits at a pace of at least 1 commit per hour
-- [ ] Developer implements branching and PRs
-- [ ] The final submitted version is merged into master
+- [x] Developer commits at a pace of at least 1 commit per hour
+- [x] Developer implements branching and PRs
+- [x] The final submitted version is merged into master
 
 ### 6. Code Sanitation: 3
 
