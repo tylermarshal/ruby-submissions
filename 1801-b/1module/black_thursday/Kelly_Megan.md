@@ -1,8 +1,8 @@
-# Assessed By: Brian
+## Assessed By: Brian
 
-# Repo: https://github.com/anubiskhan/black_thursday
+## Repo: https://github.com/anubiskhan/black_thursday
 
-# Notes
+## Notes
 
 * Programming With Values: https://vimeo.com/157333800
 
