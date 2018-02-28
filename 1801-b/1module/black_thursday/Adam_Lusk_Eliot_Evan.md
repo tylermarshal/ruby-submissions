@@ -1,3 +1,7 @@
+#### Assessed By: Brian
+
+#### Repo: https://github.com/anon0mys/black_thursday
+
 ## Evaluation Rubric
 
 The project will be assessed with the following guidelines:
