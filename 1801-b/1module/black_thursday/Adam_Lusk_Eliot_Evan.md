@@ -9,38 +9,38 @@ The project will be assessed with the following guidelines:
 
 **Expectations:**
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style: 3
 
-- [ ] Applies appropriate attribute encapsulation  
-- [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable  
-- [ ] Developer implements best-choice enumerable methods
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line
-- [ ] A directory/file structure provides basic organization via lib/ and/or /test  
+- [x] Applies appropriate attribute encapsulation  
+- [x] Developer creates instance and local variables appropriately
+- [x] Naming follows convention (is idiomatic)
+- [x] Ruby methods used are logical and readable  
+- [x] Developer implements best-choice enumerable methods
+- [x] Code is indented properly
+- [x] Code does not exceed 80 characters per line
+- [x] A directory/file structure provides basic organization via lib/ and/or /test  
 
-### 2. Breaking Logic into Components
+### 2. Breaking Logic into Components: 3
 
-- [ ] Code is effectively broken into methods & classes
-- [ ] Developer writes methods less than 6 lines
-- [ ] No more than 3 methods break the principle of SRP
+- [x] Code is effectively broken into methods & classes
+- [x] Developer writes methods less than 6 lines
+- [x] No more than 3 methods break the principle of SRP
 
-### 3. Test-Driven Development
+### 3. Test-Driven Development: 3
 
-- [ ] Each method is tested  
-- [ ] Functionality is accurately covered
-- [ ] Tests implement Ruby syntax & style   
-- [ ] Balances unit and integration tests
-- [ ] Evidence of edge cases testing
-- [ ] Test Coverage metrics are present (SimpleCov)
-- [ ] A test RakeTask is implemented
+- [x] Each method is tested  
+- [x] Functionality is accurately covered
+- [x] Tests implement Ruby syntax & style   
+- [x] Balances unit and integration tests
+- [x] Evidence of edge cases testing
+- [x] Test Coverage metrics are present (SimpleCov)
+- [x] A test RakeTask is implemented
 
-### 4. Functionality
+### 4. Functionality: 3
 
-- [ ] Application meets all requirements (all relevant tests pass the spec harness)
+- [x] Application meets all requirements (all relevant tests pass the spec harness)
 
-### 5. Version Control
+### 5. Version Control:
 
 - [ ] Developer commits at a pace of at least 1 commit per hour
 - [ ] Developer implements branching and PRs
@@ -48,4 +48,4 @@ The project will be assessed with the following guidelines:
 
 ### 6. Code Sanitation
 
-- [ ] The output from `rake sanitation:all` shows five or fewer complaints
+- [x] The output from `rake sanitation:all` shows five or fewer complaints
