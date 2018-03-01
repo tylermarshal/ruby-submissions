@@ -48,7 +48,7 @@ The project will be assessed with the following guidelines:
 
 - [x] Application meets all requirements (all relevant tests pass the spec harness)
 
-### 5. Version Control: 3
+### 5. Version Control: 4
 
 - [x] Developer commits at a pace of at least 1 commit per hour
 - [x] Developer implements branching and PRs
