@@ -87,11 +87,11 @@ Add Comments Challenge Repo: https://github.com/Tyjoo26/add_comment_js
 Wes Bos Video Code-Along Gist: https://gist.github.com/Tyjoo26/a3688c42709884efe80ca2ae8342224e
 
 ## Tyler Madsen
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: https://gist.github.com/tylermarshal/1e969bceee44feed80921e32d09edba3
+- Sorting Suite Repo: https://github.com/tylermarshal/sorting-suite-javascript
+- Editor Challenge Repo: https://github.com/tylermarshal/javascript-style-editor-challenge
+- Add Comments Challenge Repo: https://github.com/tylermarshal/javascript-add-comments-challenge
+- Wes Bos Video Code-Along Gist: https://gist.github.com/tylermarshal/57069ffc28993a2448073996848eee3f
 
 ## Young Jung
 - Link to Reflection Gist:
