@@ -101,8 +101,12 @@ Wes Bos Video Code-Along Gist: https://gist.github.com/Tyjoo26/a3688c42709884efe
 - Wes Bos Video Code-Along Gist:
 
 ## Zach Landes
-- Link to Reflection Gist:
+- Link to Reflection Gist:  https://gist.github.com/zacharylandes/cbc367700b9e42fa0463a3ee837f5cc4
 - Sorting Suite Repo:
+https://github.com/zacharylandes/zacharylandes
 - Editor Challenge Repo:
+https://github.com/zacharylandes/js-style
 - Add Comments Challenge Repo:
+https://github.com/zacharylandes/js-comments
 - Wes Bos Video Code-Along Gist:
+https://gist.github.com/zacharylandes/5fd9a2455ef506de7c72855e17112456
