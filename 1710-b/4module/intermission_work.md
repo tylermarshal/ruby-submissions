@@ -4,11 +4,11 @@
 * For all other requirements, create your own repo/gist and link below
 
 ## Alex Barnes
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
+- Link to Reflection Gist:[reflection gist](https://gist.github.com/abarnes26/14300cbb28e80a1a82eb5505c4780245)
+- Sorting Suite Repo:[sorting suite repo](https://github.com/abarnes26/sorting_suite_round_2)
+- Editor Challenge Repo: [style editor repo](https://github.com/abarnes26/javascript-style-editor-challenge)
 - Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Wes Bos Video Code-Along Gist: [code-along gist](https://gist.github.com/abarnes26/a49f062faf8a2766c32d1b6ee5125957)
 
 ## Anna Lewis
 - Link to Reflection Gist:
