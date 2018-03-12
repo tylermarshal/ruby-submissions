@@ -11,11 +11,11 @@
 - Wes Bos Video Code-Along Gist: [code-along gist](https://gist.github.com/abarnes26/a49f062faf8a2766c32d1b6ee5125957)
 
 ## Anna Lewis
-- Link to Reflection Gist:
-- Sorting Suite Repo:
+- Link to Reflection Gist: [Reflection Gist](https://gist.github.com/anlewis/1d87a0b6f746dfd026635daaa02444b8)
+- Sorting Suite Repo: [Sorting Repo](https://github.com/anlewis/sorting-suite-js)
 - Editor Challenge Repo:
 - Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Wes Bos Video Code-Along Gist: [Wes Bos Gist](https://gist.github.com/anlewis/0b58c5cd0fb70064a635eb823d79d0b0)
 
 ## Gabe Afflitto
 - Link to Reflection Gist: https://gist.github.com/GabrielAfflitto/33f9480d3214ff2842c3cfc37b5728c6
