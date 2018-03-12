@@ -46,11 +46,11 @@
 - Wes Bos Video Code-Along Gist:
 
 ## Lee Chow
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: https://gist.github.com/leepuppychow/e3645ce9020b755fb23b194e1ffee26c
+- Sorting Suite Repo: https://github.com/leepuppychow/sorting-algorithms
+- Editor Challenge Repo: https://github.com/leepuppychow/javascript-style-editor-challenge
+- Add Comments Challenge Repo: https://github.com/leepuppychow/javascript-add-comments-challenge
+- Wes Bos Video Code-Along Gist: https://gist.github.com/leepuppychow/e3645ce9020b755fb23b194e1ffee26c
 
 ## Max Stackhouse
 - Link to Reflection Gist:
