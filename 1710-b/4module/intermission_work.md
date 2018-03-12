@@ -74,11 +74,17 @@
 - Wes Bos Video Code-Along Gist:
 
 ## Tim Joo
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+Tim Joo
+
+Link to Reflection Gist: https://gist.github.com/Tyjoo26/9fafee264fd2d6e11769563107858f73
+
+Sorting Suite Repo: https://github.com/Tyjoo26/js_sort_suite
+
+Editor Challenge Repo: https://github.com/Tyjoo26/style_editor_challenge_js
+
+Add Comments Challenge Repo: https://github.com/Tyjoo26/add_comment_js
+
+Wes Bos Video Code-Along Gist: https://gist.github.com/Tyjoo26/a3688c42709884efe80ca2ae8342224e
 
 ## Tyler Madsen
 - Link to Reflection Gist:
