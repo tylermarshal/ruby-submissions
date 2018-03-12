@@ -53,11 +53,11 @@
 - Wes Bos Video Code-Along Gist: https://gist.github.com/leepuppychow/e3645ce9020b755fb23b194e1ffee26c
 
 ## Max Stackhouse
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: [Reflection](https://gist.github.com/Maxscores/398a26b2d19fcf64c4215d6a3e8d3c96)
+- Sorting Suite Repo: [Sorting Suite](https://github.com/Maxscores/sorting-suite-js)
+- Editor Challenge Repo: [Editor](https://github.com/Maxscores/javascript-style-editor-challenge)
+- Add Comments Challenge Repo: [Comments](https://github.com/Maxscores/javascript-add-comments-challenge)
+- Wes Bos Video Code-Along Gist: [JS 30](https://gist.github.com/Maxscores/461fcf2fe9d7eef3297508e83c3a5813)
 
 ## Nico Lewis
 - Link to Reflection Gist:
