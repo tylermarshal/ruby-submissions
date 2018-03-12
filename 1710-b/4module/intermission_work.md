@@ -32,11 +32,11 @@
 - Wes Bos Video Code-Along Gist:
 
 ## Kelley Jenkins
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: <https://gist.github.com/kelleyjenkins/3d5ea77a7a6a0edfb06e25b77ae228d9>
+- Sorting Suite Repo: <https://github.com/kelleyjenkins/bubble_sort>
+- Editor Challenge Repo: <https://github.com/kelleyjenkins/javascript-style-editor-challenge>
+- Add Comments Challenge Repo: <https://github.com/kelleyjenkins/javascript-add-comments-challenge>
+- Wes Bos Video Code-Along Gist: <https://gist.github.com/kelleyjenkins/a7e06fdebb2008e6f03e176ee9fdb393>
 
 ## Lauren Billington
 - Link to Reflection Gist:
