@@ -11,11 +11,11 @@
 - Wes Bos Video Code-Along Gist:
 
 ## Anna Lewis
-- Link to Reflection Gist:
+- Link to Reflection Gist: [Reflection Gist](https://gist.github.com/anlewis/1d87a0b6f746dfd026635daaa02444b8)
 - Sorting Suite Repo:
 - Editor Challenge Repo:
 - Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Wes Bos Video Code-Along Gist: [Wes Bos Gist](https://gist.github.com/anlewis/0b58c5cd0fb70064a635eb823d79d0b0)
 
 ## Gabe Afflito
 - Link to Reflection Gist:
