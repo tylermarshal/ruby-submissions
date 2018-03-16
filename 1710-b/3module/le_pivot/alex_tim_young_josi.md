@@ -12,7 +12,7 @@ You’ll be graded on each of the criteria below with a score of (1) well below 
 
 4: Better than expected
 3: As expected
-2: Below expectations
+**2: Below expectations**
 1: Well below expectations
 
 User Experience
@@ -21,7 +21,7 @@ User Experience
 
 4: Better than expected
 3: As expected
-2: Below expectations
+**2: Below expectations**
 1: Well below expectations
 
 Organization
@@ -29,7 +29,7 @@ Organization
 **Team used a project management tool to keep their project organized.**
 
 4: Better than expected
-3: As expected
+**3: As expected**
 2: Below expectations
 1: Well below expectations
 
@@ -38,7 +38,7 @@ Organization
 **Team always used pull requests and commented on pull requests prior to introducing code into the master branch.**
 
 4: Better than expected
-3: As expected
+**3: As expected**
 2: Below expectations
 1: Well below expectations
 
@@ -46,13 +46,13 @@ Organization
 
 4: Better than expected
 3: As expected
-2: Below expectations
+**2: Below expectations**
 1: Well below expectations
 
 **Project demonstrates well factored code and a solid grasp of MVC principles.**
 
 4: Better than expected
-3: As expected
+**3+: As expected**
 2: Below expectations
 1: Well below expectations
 
@@ -61,5 +61,5 @@ Organization
 We want to recognize and reward risk taking and exploring. Sometimes other areas might suffer if the risk doesn’t pan out. Earn a bonus point to offset a score above.
 
 **Did the team push themselves by taking risks?**
-1: Yes
+**1: Yes**
 0: No
