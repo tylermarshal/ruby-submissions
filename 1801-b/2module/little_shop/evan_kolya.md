@@ -1,7 +1,8 @@
 # Little Shop
 
-- Evaluator:
+- Evaluator: Ali  
 - Repo URL:
+- Notes:  
 
 
 ## Evaluation Process
