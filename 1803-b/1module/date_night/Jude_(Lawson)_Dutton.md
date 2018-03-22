@@ -14,7 +14,7 @@ Notes:
 
 ### 2. Breaking Logic into Components: 3
 
-### 3. Test-Driven Development: 3
+### 3. Test-Driven Development: 2
 
 ### 4. Version Control: 2
 
