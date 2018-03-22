@@ -1,8 +1,10 @@
-Assessor:
+Assessor: Sal
 
 Repo:
 
 Notes:
+
+* No scores because of lack of functionality.
 
 ## Evaluation Rubric
 
@@ -34,8 +36,8 @@ The project will be assessed with the following guidelines:
 
 ### 3. Test-Driven Development
 
-* Each method is tested  
-* Tests implement Ruby syntax & style  
+* Each method is tested
+* Tests implement Ruby syntax & style
 
 ### 4. Version Control
 
@@ -46,5 +48,7 @@ Expectations:
 * The final submitted version is merged into master
 
 ### 5. Functionality
+
+* 1: Well-below expectations
 
 * Application meets all requirements (extension not req'd)

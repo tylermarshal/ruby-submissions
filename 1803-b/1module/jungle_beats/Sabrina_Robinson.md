@@ -1,6 +1,6 @@
-Assessor:
+Assessor: Sal
 
-Repo:
+Repo: 
 
 Notes:
 
@@ -17,7 +17,9 @@ The project will be assessed with the following guidelines:
 
 ### 1. Ruby Syntax & Style
 
-* Applies appropriate attribute encapsulation  
+* 3: Meets expectations
+
+* Applies appropriate attribute encapsulation
 * Developer creates instance and local variables appropriately
 * Naming follows convention (is idiomatic)
 * Ruby methods used are logical and readable
@@ -27,17 +29,22 @@ The project will be assessed with the following guidelines:
 
 ### 2. Breaking Logic into Components
 
+* 3: Meets expectations
+
 * Code is effectively broken into methods & classes
 * Developer writes methods less than 10 lines
 * No more than 3 methods break the principle of SRP
 
-
 ### 3. Test-Driven Development
 
-* Each method is tested  
-* Tests implement Ruby syntax & style  
+* 3: Meets expectations
+
+* Each method is tested
+* Tests implement Ruby syntax & style
 
 ### 4. Version Control
+
+* 2: Below expectations
 
 Expectations:
 
@@ -46,5 +53,7 @@ Expectations:
 * The final submitted version is merged into master
 
 ### 5. Functionality
+
+* 2: Below expectations
 
 * Application meets all requirements (extension not req'd)

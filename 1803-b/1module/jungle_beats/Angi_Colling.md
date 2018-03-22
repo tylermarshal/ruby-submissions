@@ -1,8 +1,10 @@
-Assessor:
+Assessor: Sal
 
-Repo:
+Repo: https://github.com/amcolling/jungle_beat
 
 Notes:
+
+* No scores because of lack of functionality.
 
 ## Evaluation Rubric
 
@@ -46,5 +48,7 @@ Expectations:
 * The final submitted version is merged into master
 
 ### 5. Functionality
+
+* 1: Well-below expectations
 
 * Application meets all requirements (extension not req'd)
