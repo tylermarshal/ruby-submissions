@@ -2,13 +2,6 @@ Assessor: Brian
 
 Repo: https://github.com/jude-lawson/complete-me-project
 
-Questions:
-
-* Where are tests for deleting leaf nodes?
-* Is the weight stored on the node or in the usage_data attribute?
-* How did you decide iteration over recursion?
-* What happens if our usage_data is not empty and then we select an input that's not in the usage data?
-
 Notes:
 
 * LOTS of pull requests... you may have gone a little overboard, but still great to see you using them. 
@@ -25,40 +18,26 @@ Notes:
 * Every Method should have a test, i.e. sort_suggestions and unweighted_suggestions
 
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style: 3
 
-- [ ] Applies appropriate attribute encapsulation  
+- [x] Applies appropriate attribute encapsulation  
 - [x] Developer creates instance and local variables appropriately
 - [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable  
-- [ ] Recursion is implemented logically
-- [ ] Developer implements appropriate enumerable methods (#each is used sparingly)
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line
-- [ ] Each class has correctly-named files and corresponding test files in the proper directories
-- [ ] Code has been linted and corrected properly.
+- [x] Ruby methods used are logical and readable  
+- [x] Recursion is implemented logically
+- [x] Developer implements appropriate enumerable methods (#each is used sparingly)
+- [x] Code is indented properly
+- [x] Code does not exceed 80 characters per line
+- [x] Each class has correctly-named files and corresponding test files in the proper directories
+- [x] Code has been linted and corrected properly.
 
-Grading:
+### 2. Breaking Logic into Components: 3
 
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
+- [x] Code is effectively broken into methods & classes
+- [x] Developer writes methods less than 8 lines
+- [x] Methods do not break the principle of SRP
 
-### 2. Breaking Logic into Components
-
-- [ ] Code is effectively broken into methods & classes
-- [ ] Developer writes methods less than 8 lines
-- [ ] Methods do not break the principle of SRP
-
-Grading:
-
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
-
-### 3. Test-Driven Development
+### 3. Test-Driven Development: 3
 
 - [ ] Each method is tested  
 - [x] Functionality is accurately covered
@@ -68,29 +47,16 @@ Grading:
 - [x] Test Coverage metrics are present (SimpleCov)
 - [x] Test Coverage metrics exceed 95%
 
-Grading:
-
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
 
 ### 4. Git Workflow: 3
 
-- [ ] Repository demonstrates that each member of team has contributed fairly equally.
+- [x] Repository demonstrates that each member of team has contributed fairly equally.
 - [x] Developers commit at a rate of approximately one commit every 30 minutes.
 - [x] Repository shows the use of branches.
 - [x] Developers use a pull request workflow.
 - [x] Developers resolve HoundCI complaints in their pull requests.
 
-### 5. Functionality
+### 5. Functionality: 3
 
-- [ ] Application meets all core requirements
-- [ ] Application passes spec harness
-
-Grading:
-
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
+- [x] Application meets all core requirements
+- [x] Application passes spec harness
