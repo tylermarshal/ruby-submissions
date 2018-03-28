@@ -1,96 +1,102 @@
 ## Rubric
 
-### Evaluator:
+### Evaluator:  
+Ali  
+https://github.com/Shniks/job-tracker  
 
-### Notes:
+### Notes:  
+Job create comment button doesn't link.
+61 tests
+Good balance of model and feature tests  
 
+AR written on models in appropriate place. Used some SQl where AR would do.  
 
 ### Jobs
 
-- [ ] A user can create a job
-- [ ] A user can view a job
-- [ ] A user can update a job
-- [ ] A user can delete a job
+- [x] A user can create a job
+- [x] A user can view a job
+- [x] A user can update a job
+- [x] A user can delete a job
 
 ### Categories
 
-- [ ] The user can create a new Category by filling out a form. Each Category has a title (e.g. “Web Development”, “Education”, “Finance”).
-- [ ] When the user successfully creates a Category they are shown a page with the Category title.
-- [ ] When the user tries to create a Category that already exists, they are brought back to the page with the form to create a Category.
-- [ ] The user can view a list of all Categories on a single page, and each Category can be deleted from that page. There is also a link to “Edit” each Category, which takes the user to a form where they can update the Category.
-- [ ] When the user creates a new Job, they are required to select its Category from a drop down menu of existing categories. They also see a link to create a new Category.
-- [ ] When the user visits a page for a specific Category, they see a list of Jobs in that Category.
+- [x] The user can create a new Category by filling out a form. Each Category has a title (e.g. “Web Development”, “Education”, “Finance”).
+- [x] When the user successfully creates a Category they are shown a page with the Category title.
+- [x] When the user tries to create a Category that already exists, they are brought back to the page with the form to create a Category.
+- [x] The user can view a list of all Categories on a single page, and each Category can be deleted from that page. There is also a link to “Edit” each Category, which takes the user to a form where they can update the Category.
+- [x] When the user creates a new Job, they are required to select its Category from a drop down menu of existing categories. They also see a link to create a new Category.
+- [x] When the user visits a page for a specific Category, they see a list of Jobs in that Category.
 
 ### Job Comments
 
-- [ ] When the user visits the page for a specific Job, in addition to information about the job there is a form that allows them to enter a Comment for that Job (e.g. “Spoke to hiring manager, Jacob. Plan to follow up Monday.”).
-- [ ] Each comment has content (also created_at and updated_at).
-- [ ] When the user submits a new comment, they are redirected back to the page for that specific job and the comment appears on the page.
-- [ ] The user can leave multiple comments on a job and the most recent comments are shown above older comments (in reverse of the order in which they were created).
+- [x] When the user visits the page for a specific Job, in addition to information about the job there is a form that allows them to enter a Comment for that Job (e.g. “Spoke to hiring manager, Jacob. Plan to follow up Monday.”).
+- [x] Each comment has content (also created_at and updated_at).
+- [x] When the user submits a new comment, they are redirected back to the page for that specific job and the comment appears on the page.
+- [x] The user can leave multiple comments on a job and the most recent comments are shown above older comments (in reverse of the order in which they were created).
 
 ### Company Contacts
 
-- [ ] When the user visits the page for a specific Company, in addition to information about the company there is a form that allows them to enter a Contact for that Company (e.g. “Penelope Santorini”, “Hiring Manager”, “penelope@wooo.com”).
-- [ ] Each Contact has a full name, position, email, and company (which relates to the company you’ve already created). It should be possible for a Company to have more than one Contact, but a Contact only works at one Company.
-- [ ] When the user submits a new contact, they are redirected back to the page for that specific company and the contact appears on the page.
+- [x] When the user visits the page for a specific Company, in addition to information about the company there is a form that allows them to enter a Contact for that Company (e.g. “Penelope Santorini”, “Hiring Manager”, “penelope@wooo.com”).
+- [x] Each Contact has a full name, position, email, and company (which relates to the company you’ve already created). It should be possible for a Company to have more than one Contact, but a Contact only works at one Company.
+- [x] When the user submits a new contact, they are redirected back to the page for that specific company and the contact appears on the page.
 
 ### Analysis
 
-- [ ] The user can visit `/jobs?sort=location` to view a list of the jobs sorted by `city`.
-- [ ] The user can visit `/dashboard` to see
-  - [ ] A count of jobs by `level_of_interest`
-  - [ ] The top three companies ranked by average level of interest along with their respective average level of interest.
-  - [ ] A count of jobs by `location` with a link to visit a page with jobs only in that location. The url should be `/jobs?location=Denver`.
-- [ ] The user can visit `/jobs?sort=interest` to view a list of the jobs sorted by `level_of_interest`.
+- [x] The user can visit `/jobs?sort=location` to view a list of the jobs sorted by `city`.
+- [x] The user can visit `/dashboard` to see
+  - [x] A count of jobs by `level_of_interest`
+  - [x] The top three companies ranked by average level of interest along with their respective average level of interest.
+  - [x] A count of jobs by `location` with a link to visit a page with jobs only in that location. The url should be `/jobs?location=Denver`.
+- [x] The user can visit `/jobs?sort=interest` to view a list of the jobs sorted by `level_of_interest`.
 
 ### Databases
 
-- [ ] The database has appropriate tables and columns to create relationships between tables
-- [ ] Table and column names follow convention
+- [x] The database has appropriate tables and columns to create relationships between tables
+- [x] Table and column names follow convention
 
 ### Routes
 
-- [ ] Routes are defined for all functionality and not any additional functionality
-- [ ] All routes conform to RESTful conventions for resources
-- [ ] Routes to pages that are not specifically for resources stored in the database are not named in a way that an experienced developer would find surprising
+- [x] Routes are defined for all functionality and not any additional functionality
+- [x] All routes conform to RESTful conventions for resources
+- [x] Routes to pages that are not specifically for resources stored in the database are not named in a way that an experienced developer would find surprising
 
 ### Controllers
 
-- [ ] The developer has moved logic out of the controllers and into the models/POROs where appropriate.
-- [ ] The developer uses strong params in a private method
-- [ ] Instance variables being passed to views are appropriately named and limited in number
+- [x] The developer has moved logic out of the controllers and into the models/POROs where appropriate.
+- [x] The developer uses strong params in a private method
+- [x] Instance variables being passed to views are appropriately named and limited in number
 
 ### ActiveRecord
 
-- [ ] ActiveRecord methods are used in models to supply all appropriate functionality
-- [ ] Methods exist on the appropriate model
-- [ ] Developers are not referencing other classes or `self` in models unnecessarily
-- [ ] Ruby enumerables are not used where ActiveRecord methods could provide the necessary functionality
-- [ ] Developer can explain the ActiveRecord methods they used and the relationships between ActiveRecord models
+- [x] ActiveRecord methods are used in models to supply all appropriate functionality
+- [x] Methods exist on the appropriate model
+- [x] Developers are not referencing other classes or `self` in models unnecessarily
+- [x] Ruby enumerables are not used where ActiveRecord methods could provide the necessary functionality
+- [x] Developer can explain the ActiveRecord methods they used and the relationships between ActiveRecord models
 
 ### Views
 
-- [ ] Logic has been removed from views and controllers to the full degree possible
-- [ ] Developer ha minimized the number of variables passed to the view
-- [ ] Developer can articulately explain their strategies for extracting this logic
-- [ ] Developer uses partials to reduce duplication of code in the view layer
+- [x] Logic has been removed from views and controllers to the full degree possible
+- [x] Developer has minimized the number of variables passed to the view
+- [x] Developer can articulately explain their strategies for extracting this logic
+- [x] Developer uses partials to reduce duplication of code in the view layer
 
 ### User Experience/Usability
 
-- [ ] The application has been styled.
-- [ ] The application uses a balanced, considered color scheme.
-- [ ] The application implements a font (that is not the default font).
-- [ ] The application utilizes a nav bar. 
-- [ ] The style shows evidence of intentional layout. 
-- [ ] Space and text is balanced. White space is used to visually separate content. 
-- [ ] The application is easily usable. The user can intuitively navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
+- [x] The application has been styled.
+- [x] The application uses a balanced, considered color scheme.
+- [x] The application implements a font (that is not the default font).
+- [x] The application utilizes a nav bar.
+- [x] The style shows evidence of intentional layout.
+- [x] Space and text is balanced. White space is used to visually separate content.
+- [x] The application is easily usable. The user can intuitively navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
 
 ### Testing
 
-- [ ] Project has a running test suite
-- [ ] Test suite includes robust feature tests
-- [ ] Test suite includes tests for validations
-- [ ] Test suite includes tests for methods that they have created on the models
+- [x] Project has a running test suite
+- [x] Test suite includes robust feature tests
+- [x] Test suite includes tests for validations
+- [x] Test suite includes tests for methods that they have created on the models
 
 ## Extensions:
 
@@ -107,55 +113,32 @@
 
 ### 1. Feature Completeness
 
-* Exceeds Expectations: All features are correctly implemented along with two extensions 
-* Meets Expectations: All features defined in the assignment are correctly implemented 
-* Below Expectations: There are one or two features missing or incorrectly implemented 
+* Meets Expectations: All features defined in the assignment are correctly implemented
 
 ### 2. Views
 
-* Exceeds Expectations: Views show logical refactoring into layout(s), partials and helpers, with no logic present
 * Meets Expectations: Views make use of layout(s)
-* Below Expectations: Views show weak understanding of `erb` and 'HTML'. Logic is pervasive in views
-
 
 ### 3. Controller
 
-* Exceeds Expectations: Controller show significant effort to push logic down the stack, utilizing SRP & DRY
 * Meets Expectations: Controller is generally well organized with three or fewer methods needing refactoring
-* Below Expectations: There are four or more controller methods that should have been refactored
-
 
 ### 4. Models
 
-* Exceeds Expectations: Models show excellent organization, refactoring, and appropriate use of ActiveRecord features
 * Meets Expectations: Models show an effort to push logic down the stack, but need more internal refactoring
-* Below Expectations: Models are somewhat messy
-
 
 ### 5. ActiveRecord
 
-* Exceeds Expectations: Best choice ActiveRecord methods are used to solve each problem
 * Meets Expectations: ActiveRecord is utilized wherever it can be. There is no Ruby where there should be ActiveRecord
-* Below Expectations: Ruby is used to programatically solve problems where ActiveRecord could be used
-
 
 ### 6. Testing
 
-* Exceeds Expectations: Project has a running test suite that covers all functionality, exercises the application at multiple levels, and covers edge cases
-* Meets Expectations: Project has a running test suite that tests all functionalty, at multiple levels
-* Below Expectations: Project has sporadic use of tests 
-
+* Meets Expectations: Project has a running test suite that tests all functionality, at multiple levels
 
 ### 7. Usability
 
-* Exceeds Expectations: Project is highly usable and ready to deploy to customers
 * Meets Expectations: Project is usable, but needs more polish or navigation before it'd be customer-ready
-* Below Expectations: Project needs more attention to the User Experience, but works
-
 
 ### 8. Workflow
 
-* Exceeds Expectations: Excellent use of branches, pull requests, code review and a project management tool.
 * Meets Expectations: Good use of branches, pull requests, and a project-management tool.
-* Below Expectations: Sporadic use of branches, pull requests, and/or project-management tool.
-
