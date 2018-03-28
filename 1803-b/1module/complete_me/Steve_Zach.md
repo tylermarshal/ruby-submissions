@@ -1,8 +1,14 @@
-Assessor:
+Assessor: Brian
 
-Repo:
+Repo: https://github.com/zdcthomas/Complete_Me
 
 Notes:
+
+* trie_test should be renamed to complete_me_test
+* could gitignore coverage
+* Node children would be better as a hash
+* assert_equal false should be refute
+
 
 ### 1. Ruby Syntax & Style
 
@@ -54,13 +60,13 @@ Grading:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 4. Git Workflow
+### 4. Git Workflow: 3
 
-- [ ] Repository demonstrates that each member of team has contributed fairly equally.
-- [ ] Developers commit at a rate of approximately one commit every 30 minutes.
-- [ ] Repository shows the use of branches.
-- [ ] Developers use a pull request workflow.
-- [ ] Developers resolve HoundCI complaints in their pull requests.
+- [x] Repository demonstrates that each member of team has contributed fairly equally.
+- [x] Developers commit at a rate of approximately one commit every 30 minutes.
+- [x] Repository shows the use of branches.
+- [x] Developers use a pull request workflow.
+- [x] Developers resolve HoundCI complaints in their pull requests.
 
 Grading:
 
