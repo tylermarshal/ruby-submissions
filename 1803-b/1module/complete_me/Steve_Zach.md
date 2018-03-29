@@ -8,57 +8,37 @@ Notes:
 * could gitignore coverage
 * Node children would be better as a hash
 * assert_equal false should be refute
+* no test for helper methods i.e. delete_parent_nodes
 
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style: 3
 
-- [ ] Applies appropriate attribute encapsulation  
-- [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable  
-- [ ] Recursion is implemented logically
-- [ ] Developer implements appropriate enumerable methods (#each is used sparingly)
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line
+- [x] Applies appropriate attribute encapsulation  
+- [x] Developer creates instance and local variables appropriately
+- [x] Naming follows convention (is idiomatic)
+- [x] Ruby methods used are logical and readable  
+- [x] Recursion is implemented logically
+- [x] Developer implements appropriate enumerable methods (#each is used sparingly)
+- [x] Code is indented properly
+- [x] Code does not exceed 80 characters per line
 - [ ] Each class has correctly-named files and corresponding test files in the proper directories
-- [ ] Code has been linted and corrected properly.
+- [x] Code has been linted and corrected properly.
 
-Grading:
+### 2. Breaking Logic into Components: 3
 
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
+- [x] Code is effectively broken into methods & classes
+- [x] Developer writes methods less than 8 lines
+- [x] Methods do not break the principle of SRP
 
-### 2. Breaking Logic into Components
-
-- [ ] Code is effectively broken into methods & classes
-- [ ] Developer writes methods less than 8 lines
-- [ ] Methods do not break the principle of SRP
-
-Grading:
-
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
-
-### 3. Test-Driven Development
+### 3. Test-Driven Development: 3
 
 - [ ] Each method is tested  
-- [ ] Functionality is accurately covered
-- [ ] Tests implement Ruby syntax & style   
+- [x] Functionality is accurately covered
+- [x] Tests implement Ruby syntax & style   
 - [ ] Balances unit and integration tests
-- [ ] Evidence of edge cases testing
-- [ ] Test Coverage metrics are present (SimpleCov)
-- [ ] Test Coverage metrics exceed 95%
-
-Grading:
-
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
+- [x] Evidence of edge cases testing
+- [x] Test Coverage metrics are present (SimpleCov)
+- [x] Test Coverage metrics exceed 95%
 
 ### 4. Git Workflow: 3
 
@@ -68,21 +48,7 @@ Grading:
 - [x] Developers use a pull request workflow.
 - [x] Developers resolve HoundCI complaints in their pull requests.
 
-Grading:
+### 5. Functionality: 3
 
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
-
-### 5. Functionality
-
-- [ ] Application meets all core requirements
-- [ ] Application passes spec harness
-
-Grading:
-
-* 4: Above expectations
-* 3: Meets expectations
-* 2: Below expectations
-* 1: Well-below expectations
+- [x] Application meets all core requirements
+- [x] Application passes spec harness
