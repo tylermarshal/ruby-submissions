@@ -49,7 +49,7 @@ The project will be assessed with the following guidelines:
 - [x] Tests implement Ruby syntax & style   
 - [ ] Balances unit and integration tests
 - [x] Evidence of edge cases testing
-- [ ] Test Coverage metrics are present (SimpleCov)
+- [x] Test Coverage metrics are present (SimpleCov)
 
 ### 4. Version Control: 3
 
