@@ -17,7 +17,7 @@ Please self assess with the rubric below. Provide additional information to expl
 Application implements **all** functionality as defined, but some bugs or strange behavior where features intersect.
 
 - Above Expectations
-*- Meets Expectations* 
+**- Meets Expectations** 
 Functionality is there in every aspect, but we get one console error when deleting a food from the food table about also trying to patch. This error does not affect functionality in any way.
 - Below Expectations
 
