@@ -1,6 +1,4 @@
-### Project Template
-
-### [Project Title]
+### Dominion for Mobile Phone
 
 ### Pitch
 
@@ -48,5 +46,5 @@ You must have at least 5 of the first user stories for you app up on your board 
 
 Please provide screen shots of your wireframes for each part of your application.<br>
 
-![Dominion Wireframes](https://files.slack.com/files-pri/T029P2S9M-FA1FHT1F1/screen_shot_2018-04-03_at_10.07.56_am.png)
+![Dominion Wireframes](https://raw.githubusercontent.com/Maxscores/dominion-app/master/assets/images/Screen%20Shot%202018-04-03%20at%2010.07.56%20AM.png)
 
