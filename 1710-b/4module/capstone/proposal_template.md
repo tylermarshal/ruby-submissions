@@ -33,7 +33,7 @@ Our user would be applicable to anyone who has a mobile phone and enjoys playing
 ### New Technologies
 
 Which new technologies will you implement?<br>
-React/React Native, Expo, 
+React/React Native, Expo, MobX or Redux
 
 ### User Stories
 
